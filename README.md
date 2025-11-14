@@ -1,5 +1,5 @@
-#Color Picker App 
-React + Vite
+##Color Picker App 
+##React + Vite
 
 A simple Color Selector built with React.  
 This app allows users to select any color using a color input and see a live preview. Perfect for designers, developers, or anyone playing with colors.  
