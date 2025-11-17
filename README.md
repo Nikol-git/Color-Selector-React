@@ -24,6 +24,7 @@ https://Nikol-git.github.io/Color-Selector-React/
 
 ## Built With
 - React
+- JS
 - HTML / CSS
 - Vite 
 
